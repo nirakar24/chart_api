@@ -95,4 +95,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact Nirakar Jena at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact Nirakar Jena at [Mail](mailto:jenashubham60@gmail.com).
